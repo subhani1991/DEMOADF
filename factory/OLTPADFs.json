@@ -1,0 +1,9 @@
+{
+	"name": "OLTPADFs",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a2101e08-cdc1-451a-a492-3401efa395df",
+		"tenantId": "f7d66b82-666f-42b5-9101-dfd0198e7ddb"
+	}
+}
